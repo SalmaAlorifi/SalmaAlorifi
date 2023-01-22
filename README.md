@@ -28,5 +28,4 @@
 ---
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=salmadev101&" alt="salmadev101" /></p>
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmadev101" alt="salmadev101" /></a> </p>
 
