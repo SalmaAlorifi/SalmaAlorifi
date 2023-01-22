@@ -1,7 +1,7 @@
 ### Hi there 👋 i'm Salma !
 
 
-- 🔭 I’m currently an IOS developer and UX UI designer.
+- 🔭 I’m an IOS developer and UX UI designer.
 - 🌱 I’m currently learning Swift programming language.
 - 🤔 I’m interested in game development, AI, applications development, web development, UX case studies, and UI design.
 - 📫 How to reach me: <a href="http://linkedin.com/in/salma-alorifi-0544801a6/"> Salma Alorifi </a>  
