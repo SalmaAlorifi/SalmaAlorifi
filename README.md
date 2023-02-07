@@ -35,7 +35,8 @@
   </a>
 </p>
 
-<h3 align="left"><img src="https://user-images.githubusercontent.com/116716645/217340464-f39037fb-bf9c-4190-bc4c-b84ae4298d6e.png" width="200" height="100"></h3>
+<h3 align="left">
+ <img src="https://user-images.githubusercontent.com/116716645/217340464-f39037fb-bf9c-4190-bc4c-b84ae4298d6e.png" width="200" height="200"></h3>
   
   
 
