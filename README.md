@@ -25,6 +25,13 @@
 
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> </p>
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 ---
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=salmadev101&" alt="salmadev101" /></p>
