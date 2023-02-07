@@ -33,7 +33,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=eclipse,visualstudio," />
   </a>
- ![My project (20)](https://user-images.githubusercontent.com/116716645/217340464-f39037fb-bf9c-4190-bc4c-b84ae4298d6e.png)
+ 
+ <h3 align="left"><img src="https://user-images.githubusercontent.com/116716645/217340464-f39037fb-bf9c-4190-bc4c-b84ae4298d6e.png" width="40" height="40"></h3>
+ 
 
 </p>
 
