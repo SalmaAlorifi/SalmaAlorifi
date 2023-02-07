@@ -33,7 +33,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=eclipse,visualstudio" />
-   <img src="https://user-images.githubusercontent.com/116716645/217340464-f39037fb-bf9c-4190-bc4c-b84ae4298d6e.png" width="160" height="50">
+   <img src="https://user-images.githubusercontent.com/116716645/217340464-f39037fb-bf9c-4190-bc4c-b84ae4298d6e.png" width="160" height="80">
   </a>
 </p>
 
