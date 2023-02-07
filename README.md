@@ -34,6 +34,10 @@
   </a>
 </p>
 
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=xcode" />
+  </a>
+
 ---
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=salmadev101&" alt="salmadev101" /></p>
