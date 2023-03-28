@@ -10,9 +10,14 @@
 ## Skils :
 
 
-<h3 align="left">Programming Languages:</h3>
+<h3 align="left">Languages & Tools:</h3>
 
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=eclipse,visualstudio" />
+   <img src="https://user-images.githubusercontent.com/116716645/217340464-f39037fb-bf9c-4190-bc4c-b84ae4298d6e.png" width="160" height="80">
+  </a>
+</p>
  </p>
 
 
