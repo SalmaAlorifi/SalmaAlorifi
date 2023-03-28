@@ -18,6 +18,7 @@
    <img src="https://user-images.githubusercontent.com/116716645/217340464-f39037fb-bf9c-4190-bc4c-b84ae4298d6e.png" width="160" height="80">
   </a>
 </p>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
  </p>
 
 
@@ -31,16 +32,7 @@
 
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> </p>
 
-
-<h3 align="left">IDE:</h3>
-
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,visualstudio" />
-   <img src="https://user-images.githubusercontent.com/116716645/217340464-f39037fb-bf9c-4190-bc4c-b84ae4298d6e.png" width="160" height="80">
-  </a>
-</p>
+>
 
  
   
