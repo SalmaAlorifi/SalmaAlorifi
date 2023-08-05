@@ -29,5 +29,5 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=salmadev101&" alt="salmadev101" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=salmadev101&" alt="SalmaAlorifi" /></p>
 
