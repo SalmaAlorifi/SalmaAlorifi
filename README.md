@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Salma!
 
 
-- 🔭 I am a developer.
+- 👾 I am a developer.
 - 🌱 I am currently learning the Swift programming language.
 - 🤔 I am interested in game development, artificial intelligence (AI), application development, and web development.
 - 📫 How to reach me: <a href="http://linkedin.com/in/salma-alorifi-0544801a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/salma-alorifi-0544801a6" height="20" width="20" /></a>
